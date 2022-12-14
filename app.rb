@@ -2,4 +2,6 @@ print "Enter intrger: "
 
 a = gets.to_i
 
-puts a + a * a
+b = a + a * a
+
+print "Result: #{b}"
