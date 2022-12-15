@@ -1,4 +1,4 @@
-print "Enter intrger: "
+print "Enter intrger:  "
 
 a = gets.to_i
 
