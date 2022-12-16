@@ -1,0 +1,8 @@
+CREATE TABLE "Users" (
+	"id"	INTEGER PRIMARY KEY AUTOINCREMENT,
+	"uername"	TEXT,
+	"phone"	TEXT,
+	"datestamp"	TEXT,
+	"barber"	TEXT,
+	"color"	TEXT
+);
